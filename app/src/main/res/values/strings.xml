@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Top 250 IMDb App</string>
+    <string name="error">Что-то пошло не так</string>
+    <string name="runtime">Длительность:</string>
+    <string name="directors">Режиссёры</string>
 </resources>
