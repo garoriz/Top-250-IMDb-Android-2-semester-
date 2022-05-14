@@ -9,6 +9,9 @@ pluginManagement {
             if (requested.id.id == 'dagger.hilt.android.plugin') {
                 useModule("com.google.dagger:hilt-android-gradle-plugin:2.39.1")
             }
+            if (requested.id.id == 'de.mannodermaus.android-junit5') {
+                useModule("de.mannodermaus.gradle.plugins:android-junit5:1.8.2.0")
+            }
         }
     }
 }
